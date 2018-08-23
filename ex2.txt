@@ -1,0 +1,7 @@
+.......
+  198  clear
+  199  whoami
+  200  hostname
+  201  man whoami
+  202  man man
+  203  history > ex2.txt
